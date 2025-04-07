@@ -4,7 +4,7 @@ Repository for COGS 108 Project
 - Housing Prices Predictions (in La Jolla?)
 - Waitlist (https://github.com/UCSD-Historical-Enrollment-Data/UCSDHistEnrollData?tab=readme-ov-file#full-data)
 - Predicting public delays
-- 
+- Housing prices predicted by vaccination rates
 
 
 ## Important Links:
